@@ -5,7 +5,7 @@ I created 2 ML models: ridge linear regression model and a long short-term memor
 
 This repository contains a project where I've leveraged data visualization and machine learning techniques to analyze historical stock data spanning from 2012 to 2020. The main goal of this project is to build and evaluate predictive models for stock price movements.
 
-## Project Overview:
+## Project-Overview:
 
 In this project, I explored the historical stock data of various companies and the S&P500. The repository includes the following key components:
 
