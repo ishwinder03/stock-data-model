@@ -10,12 +10,12 @@ This repository contains a project where I've leveraged data visualization and m
 In this project, I explored the historical stock data of various companies and the S&P500. The repository includes the following key components:
 
 Data Gathering: I obtained historical stock price and volume data from reliable sources. <br>
-Data Preprocessing: I cleaned and transformed the raw data into a format suitable for analysis and modeling.
-Exploratory Data Analysis: I visualized the data to gain insights into the trends and patterns present in the stock prices and trading volumes.
-Feature Engineering: I created relevant features that might have an impact on stock price movements.
-Machine Learning Models: I implemented two different predictive models to forecast stock price movements.
-Ridge Linear Regression Model: I trained a Ridge regression model to predict stock prices based on selected features.
-Long Short-Term Memory Network (LSTM) Model: I developed an LSTM model, a type of recurrent neural network, to capture temporal dependencies in stock price data and make predictions.
+Data Preprocessing: I cleaned and transformed the raw data into a format suitable for analysis and modeling. <br>
+Exploratory Data Analysis: I visualized the data to gain insights into the trends and patterns present in the stock prices and trading volumes. <br>
+Feature Engineering: I created relevant features that might have an impact on stock price movements. <br>
+Machine Learning Models: I implemented two different predictive models to forecast stock price movements. <br>
+Ridge Linear Regression Model: I trained a Ridge regression model to predict stock prices based on selected features. <br>
+Long Short-Term Memory Network (LSTM) Model: I developed an LSTM model, a type of recurrent neural network, to capture temporal dependencies in stock price data and make predictions. <br>
 Visualizations: I used visualization techniques to showcase the model predictions, compare them to actual stock prices, and analyze their accuracy.
 Usage
 
