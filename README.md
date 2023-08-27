@@ -9,7 +9,7 @@ This repository contains a project where I've leveraged data visualization and m
 
 In this project, I explored the historical stock data of various companies and the S&P500. The repository includes the following key components:
 
-Data Gathering: I obtained historical stock price and volume data from reliable sources.
+Data Gathering: I obtained historical stock price and volume data from reliable sources. <br>
 Data Preprocessing: I cleaned and transformed the raw data into a format suitable for analysis and modeling.
 Exploratory Data Analysis: I visualized the data to gain insights into the trends and patterns present in the stock prices and trading volumes.
 Feature Engineering: I created relevant features that might have an impact on stock price movements.
